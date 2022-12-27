@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hint1">podaj miejsce zerowe [x]:</string>
+    <string name="hint2">wpisz czas w [s]:</string>
+    <string name="button">RYSUJ</string>
+    <string name="hintA">a=</string>
+    <string name="hintB">b=</string>
+    <string name="hintC">c=</string>
+</resources>
